@@ -1,2 +1,2 @@
-# study_anything
+# ✏️ study_anything
 database, network, etc ...
